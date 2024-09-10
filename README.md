@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vihanga-ts
+- 👋 Hi, I’m @vihanga-ts
 - 👀 I’m interested in LIfe.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything possible.
